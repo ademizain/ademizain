@@ -11,7 +11,6 @@ I'm Ademi, a passionate Math-CS student based in NYC. Welcome to my GitHub profi
 - 👯 I’m looking to collaborate on [Project Ideas]
 - 💬 Ask me about [Your Expertise]
 - 📫 How to reach me: [Your Contact Information]
-- 😄 Pronouns: [Your Pronouns]
 - ⚡ Fun fact: [Fun Fact]
 
 ## Technologies and Tools
