@@ -6,50 +6,39 @@ I'm Ademi, a passionate Math-CS student based in NYC. Welcome to my GitHub profi
 
 ## About Me
 
-- 🔭 I’m currently working on [Current Project]
-- 🌱 I’m currently learning [Current Learning Focus]
-- 👯 I’m looking to collaborate on [Project Ideas]
-- 💬 Ask me about [Your Expertise]
-- 📫 How to reach me: [Your Contact Information]
-- ⚡ Fun fact: [Fun Fact]
+- 🔭 I’m currently working on Finance Tracking App
+- 🌱 I’m currently learning Django & React
+- 👯 I’m looking to collaborate on AI/Cloud projects
+- 💬 Ask me about C++
+- 📫 How to reach me: @zainademi
+- ⚡ Fun fact: I love Chemistry and Photography
 
 ## Technologies and Tools
 
 Here are some of the technologies and tools I work with:
 
-- Programming Languages: [Languages]
-- Frameworks and Libraries: [Frameworks/Libraries]
-- Databases: [Databases]
-- Tools and Software: [Tools/Software]
-- DevOps and Cloud: [DevOps/Cloud]
+- Programming Languages: Python, JavaScript, C++
+- Frameworks and Libraries: Django, React, Matplotlib, Pandas, Numpy
+- Databases: SQLite
+- Tools and Software: ZSH, VS Code, Pycharm, Clion
+- DevOps and Cloud: Google Cloud Platform
 
 ## My Projects
 
 Here are some of my notable projects:
 
-1. [Project Name](link-to-repo) - Brief description of the project.
-2. [Project Name](link-to-repo) - Brief description of the project.
-3. [Project Name](link-to-repo) - Brief description of the project.
+1. [Finance Tracking Application](link-to-repo)
+2. [MovieRec](link-to-repo)
+3. [Sudoku Game](link-to-repo)
 
-You can explore more of my projects on my [GitHub repositories](https://github.com/your-username).
-
-## Recent Blog Posts
-
-I occasionally write about topics related to [Your Interests]. Here are some of my recent blog posts:
-
-1. [Blog Post Title](link-to-blog-post) - Brief description of the blog post.
-2. [Blog Post Title](link-to-blog-post) - Brief description of the blog post.
-3. [Blog Post Title](link-to-blog-post) - Brief description of the blog post.
-
-You can find more of my articles on my [blog](link-to-blog)!
+You can explore more of my projects on my [GitHub repositories](https://github.com/ademizain).
 
 ## Connect with Me
 
 Let's connect and collaborate:
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
-- [Twitter](https://twitter.com/your-twitter-profile)
-- [Email](mailto:your-email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/ademi-zain)
+- [Email](mailto:zainademi@gmail.com)
 
 Feel free to reach out if you have any questions, suggestions, or just want to chat!
 
