@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=username&color=green)
 
 I'm Ademi, a passionate Math-CS student based in NYC. Welcome to my GitHub profile!
 
