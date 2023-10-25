@@ -10,7 +10,7 @@ I'm Ademi, a passionate Math-CS student based in NYC. Welcome to my GitHub profi
 - 🌱 I’m currently learning Django & React
 - 👯 I’m looking to collaborate on AI/Cloud projects
 - 💬 Ask me about C++
-- 📫 How to reach me: @zainademi
+- 📫 How to reach me: @zainademi@gmail.com
 - ⚡ Fun fact: I love Chemistry and Photography
 
 ## Technologies and Tools
