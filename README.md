@@ -7,8 +7,8 @@ I'm Ademi, a passionate Math-CS student based in NYC. Welcome to my GitHub profi
 ## About Me
 
 - 🔭 I’m currently working on Finance Tracking App
-- 🌱 I’m currently learning Django & React
-- 👯 I’m looking to collaborate on AI/Cloud projects
+- 🌱 I’m currently learning FastAPI
+- 👯 I’m looking to collaborate on web development projects
 - 💬 Ask me about C++
 - 📫 How to reach me: zainademi@gmail.com
 - ⚡ Fun fact: I love Chemistry and Photography
