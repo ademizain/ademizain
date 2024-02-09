@@ -28,8 +28,7 @@ Here are some of the technologies and tools I work with:
 Here are some of my notable projects:
 
 1. [Finance Tracking Application](link-to-repo)
-2. [MovieRec](link-to-repo)
-3. [Sudoku Game](https://github.com/ademizain/sudoku)
+2. [Sudoku Game](https://github.com/ademizain/sudoku)
 
 You can explore more of my projects on my [GitHub repositories](https://github.com/ademizain).
 
