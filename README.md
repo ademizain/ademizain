@@ -6,7 +6,7 @@ I'm Ademi, a passionate Math-CS student based in NYC. Welcome to my GitHub profi
 
 ## About Me
 
-- 🔭 I’m currently working on Finance Tracking App
+- 🔭 I’m currently working on Booking.com clone
 - 🌱 I’m currently learning FastAPI and Databases
 - 👯 I’m looking to collaborate on web development projects
 - 📫 How to reach me: zainademi@gmail.com
