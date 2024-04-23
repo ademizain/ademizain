@@ -7,9 +7,8 @@ I'm Ademi, a passionate Math-CS student based in NYC. Welcome to my GitHub profi
 ## About Me
 
 - 🔭 I’m currently working on Finance Tracking App
-- 🌱 I’m currently learning FastAPI
+- 🌱 I’m currently learning FastAPI and Databases
 - 👯 I’m looking to collaborate on web development projects
-- 💬 Ask me about C++
 - 📫 How to reach me: zainademi@gmail.com
 - ⚡ Fun fact: I love Chemistry and Photography
 
@@ -17,9 +16,9 @@ I'm Ademi, a passionate Math-CS student based in NYC. Welcome to my GitHub profi
 
 Here are some of the technologies and tools I work with:
 
-- Programming Languages: Python, JavaScript, C++
-- Frameworks and Libraries: Django, React, Matplotlib, Pandas, Numpy
-- Databases: SQLite
+- Programming Languages: Python, C++
+- Frameworks and Libraries: FastAPI, Django, Matplotlib, Pandas, Numpy, SQLAlchemy
+- Databases: SQLite, PostgreSQL, MongoDB
 - Tools and Software: ZSH, VS Code, Pycharm, Clion
 - DevOps and Cloud: Google Cloud Platform
 
@@ -27,8 +26,7 @@ Here are some of the technologies and tools I work with:
 
 Here are some of my notable projects:
 
-1. [Finance Tracking Application](link-to-repo)
-2. [Sudoku Game](https://github.com/ademizain/sudoku)
+1. [Sudoku Game](https://github.com/ademizain/sudoku)
 
 You can explore more of my projects on my [GitHub repositories](https://github.com/ademizain).
 
