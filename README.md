@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile 👋
+# 👋 Welcome to My GitHub Profile
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ademizain&color=green)
 
@@ -39,4 +39,4 @@ Let's connect and collaborate:
 
 Feel free to reach out if you have any questions, suggestions, or just want to chat!
 
-Thanks for visiting my GitHub profile! 😄
+Thanks for visiting my GitHub profile!
