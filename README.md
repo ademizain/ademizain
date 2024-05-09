@@ -27,7 +27,7 @@ Here are some of the technologies and tools I work with:
 Here are some of my notable projects:
 
 1. [Sudoku Game](https://github.com/ademizain/sudoku)
-2. [Course and Student Management System] ()
+2. [Course and Student Management System](https://github.com/ademizain/CS2-Final-Project)
 
 
 You can explore more of my projects on my [GitHub repositories](https://github.com/ademizain).
